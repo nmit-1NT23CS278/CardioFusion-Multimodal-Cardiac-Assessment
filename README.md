@@ -421,7 +421,7 @@ Install the following tools:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/bhavashyacy2005-droid/github-ready-health-app.git
+git clone https://github.com/nmit-1NT23CS278/CardioFusion-Multimodal-Cardiac-Assessment/tree/main
 ```
 
 ### Step 2: Navigate to the Project Directory
